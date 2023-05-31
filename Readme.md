@@ -8,7 +8,7 @@ Kullanılan model [Denoiser](https://github.com/facebookresearch/denoiser)
 Modeli data dizini altına koyabilirsiniz.
 
 
-[Model]https://drive.google.com/file/d/1gSMqfu5jQ2tajOckVP5a08EB334Ro95g/view?usp=sharing
+[Model](https://drive.google.com/file/d/1gSMqfu5jQ2tajOckVP5a08EB334Ro95g/view?usp=sharing)
 
 
 ## Kurulum
