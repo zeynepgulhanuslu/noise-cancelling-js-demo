@@ -1,7 +1,7 @@
 
 # Gürültü Önleme Javascript Demo
 
-Bu proje, onnx formatına dönüştürülen örnek bir gürültü önleme modelinin javascript ile kullanımı için demo hazırlnamıştır.
+Bu projede, onnx formatına dönüştürülen örnek bir gürültü önleme modelinin javascript ile kullanımı için demo hazırlanmıştır.
 
 Kullanılan model [Denoiser](https://github.com/facebookresearch/denoiser)
 
